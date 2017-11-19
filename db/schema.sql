@@ -1,0 +1,9 @@
+CREATE DATABASE ???-db;
+USE ???-db;
+
+CREATE Table ???
+(
+	id int NOT NULL AUTO_INCREMENT,
+	??????? varcnar(255) NOT NULL,
+	PRIMARY KEY (id)
+);
